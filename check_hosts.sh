@@ -35,3 +35,4 @@ cat /etc/hosts | while read -r line; do
         echo "Bogus IP for $host in /etc/hosts!"
     fi
 done
+echo "am modificat Matei Ioana"
